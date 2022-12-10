@@ -1,6 +1,6 @@
 ![CIENCIA DE DATOS: BIG DATA: Explotación de Datos](https://raw.githubusercontent.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-02-2022/main/img/Cara.png)
 
-![CIENCIA DE DATOS: BIG DATA: Explotación de Datos](https://raw.githubusercontent.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-01-2022B/main/Calendario.png)
+![CIENCIA DE DATOS: BIG DATA: Explotación de Datos](https://raw.githubusercontent.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-02-2022/main/img/Calendario.png)
 
 
 # DATOS GENERALES
