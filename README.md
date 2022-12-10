@@ -1,12 +1,12 @@
-![CIENCIA DE DATOS: Aprende los fundamentos de manera práctica](https://raw.githubusercontent.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-01-2022B/main/img/cara.png)
+![CIENCIA DE DATOS: BIG DATA: Explotación de Datos](https://raw.githubusercontent.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-02-2022/main/img/Cara.png)
 
-![CIENCIA DE DATOS: Aprende los fundamentos de manera práctica](https://raw.githubusercontent.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-01-2022B/main/Calendario.png)
+![CIENCIA DE DATOS: BIG DATA: Explotación de Datos](https://raw.githubusercontent.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-01-2022B/main/Calendario.png)
 
 
 # DATOS GENERALES
 
 - Lugar: UNI - CTIC
-- Horario síncrono: Lunes y Jueves de 18-22 Horas
+- Horario síncrono: Lunes, Miercoles y Viernes de 18:30 - 21:30 Horas
 - Inicio: 25.AGO.2022
 - Dirección: https://goo.gl/maps/DvXVYCZoGXX3wV3m7
 
