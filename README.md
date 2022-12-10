@@ -7,7 +7,7 @@
 
 - Lugar: UNI - CTIC
 - Horario síncrono: Lunes, Miercoles y Viernes de 18:30 - 21:30 Horas
-- Inicio: 25.AGO.2022
+- Inicio: 12.DIC.2022
 - Dirección: https://goo.gl/maps/DvXVYCZoGXX3wV3m7
 
 # DATOS ACADEMICOS
